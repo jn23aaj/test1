@@ -1,0 +1,17 @@
+.placeholderphoto {
+  margin-left: 20%;
+  }
+.Projectphoto {
+  width: 30%;
+  height: auto;
+  }
+div {
+  border: 1px solid #000000;
+  padding: 1px;
+  margin: 1px;
+}
+.footerdiv {
+  border: 5px solid #000000;
+  padding: 1px;
+  margin: 1px;
+}
